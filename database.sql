@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS api_practica;
+
+USE api_practica;
+
+CREATE TABLE IF NOT EXISTS alumnos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    carrera VARCHAR(150) NOT NULL
+);
