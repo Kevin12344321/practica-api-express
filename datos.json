@@ -1,0 +1,43 @@
+
+[
+  {
+    "nombre": "Kevin",
+    "carrera": "Ingeniería en Sistemas Computacionales"
+  },
+  {
+    "nombre": "Luis",
+    "carrera": "Ingeniería en Software"
+  },
+  {
+    "nombre": "María",
+    "carrera": "Ingeniería Industrial"
+  },
+  {
+    "nombre": "Carlos",
+    "carrera": "Ingeniería en Sistemas Computacionales"
+  },
+  {
+    "nombre": "Sofía",
+    "carrera": "Ingeniería en Software"
+  },
+  {
+    "nombre": "Diego",
+    "carrera": "Ingeniería Industrial"
+  },
+  {
+    "nombre": "Fernanda",
+    "carrera": "Ingeniería en Sistemas Computacionales"
+  },
+  {
+    "nombre": "Miguel",
+    "carrera": "Ingeniería en Software"
+  },
+  {
+    "nombre": "Valeria",
+    "carrera": "Ingeniería Industrial"
+  },
+  {
+    "nombre": "Jorge",
+    "carrera": "Ingeniería en Sistemas Computacionales"
+  }
+]
